@@ -1,0 +1,32 @@
+{
+  "kemuri": {
+    "name": "Kemuri Tatsuya",
+    "address": "2713 E 2nd St, Austin, TX 78702",
+    "genre": "Japanese/Texas Smokehouse",
+    "price": "$$$",
+    "food_rec": "Eel and stuff, idk",
+    "drink_rec": "The painkiller thing, meow",
+    "url": "https://kemuri-tatsuya.com/",
+    "reservation_recommended": true
+  },
+  "suerte": {
+    "name": "Suerte",
+    "address": "1800 E 6th St, Austin, TX 78702",
+    "genre": "Mexican",
+    "price": "$$$",
+    "food_rec": "Coooooooooorn",
+    "drink_rec": "Don Draper, I mean, Dario",
+    "url": "https://www.suerteatx.com/",
+    "reservation_recommended": true
+  },
+  "sour_duck": {
+    "name": "Sour Duck Market",
+    "address": "1814 E Martin Luther King Jr Blvd, Austin, TX 78702",
+    "genre": "Bakery/American",
+    "price": "$",
+    "food_rec": "Pastriessssss and fried chicky sammie",
+    "drink_rec": "Paloooooma",
+    "url": "https://www.sourduckmarket.com/",
+    "reservation_recommended": false
+  }
+}
