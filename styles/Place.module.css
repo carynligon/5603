@@ -1,3 +1,6 @@
+.container {
+  width: 100%;
+}
 .placeName {
   margin: 2rem 0 0.5rem 0;
 }
