@@ -1,0 +1,18 @@
+.container {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.list {
+  display: flex;
+  list-style-type: none;
+  overflow-y: scroll;
+  padding: 0;
+  transition: transform 1s;
+  width: 100%;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+}

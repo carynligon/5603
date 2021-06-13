@@ -1,32 +1,50 @@
 {
   "kemuri": {
     "name": "Kemuri Tatsuya",
+    "coords": {
+      "lat": 30.253838,
+      "lng": -97.712949
+    },
     "address": "2713 E 2nd St, Austin, TX 78702",
     "genre": "Japanese/Texas Smokehouse",
+    "img": "https://cdn.vox-cdn.com/thumbor/t2AjlvBaZf6ldUcU-IK1qbICNzI=/0x0:6429x4291/1200x800/filters:focal(2188x1692:3216x2720)/cdn.vox-cdn.com/uploads/chorus_image/image/54363769/Photo_Dec_10__4_55_01_AM.0.jpg",
     "price": "$$$",
     "food_rec": "Eel and stuff, idk",
     "drink_rec": "The painkiller thing, meow",
     "url": "https://kemuri-tatsuya.com/",
+    "type": "restaurant",
     "reservation_recommended": true
   },
   "suerte": {
     "name": "Suerte",
+    "coords": {
+      "lat": 30.2623996,
+      "lng": -97.7246722
+    },
     "address": "1800 E 6th St, Austin, TX 78702",
     "genre": "Mexican",
+    "img": "https://cdn.vox-cdn.com/thumbor/6jXjhEIWGZxmX-q5d9DbuKbP8Gc=/0x0:7969x5975/1200x0/filters:focal(0x0:7969x5975):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10475785/Photo_Mar_21__15_54_42.jpg",
     "price": "$$$",
     "food_rec": "Coooooooooorn",
     "drink_rec": "Don Draper, I mean, Dario",
     "url": "https://www.suerteatx.com/",
+    "type": "restaurant",
     "reservation_recommended": true
   },
   "sour_duck": {
     "name": "Sour Duck Market",
+    "coords": {
+      "lat": 30.2808681,
+      "lng": -97.7099338
+    },
     "address": "1814 E Martin Luther King Jr Blvd, Austin, TX 78702",
     "genre": "Bakery/American",
+    "img": "https://th.bing.com/th/id/OIP.LMWZZoN96qK1bqoc_GFpfwHaFj?pid=ImgDet&rs=1",
     "price": "$",
     "food_rec": "Pastriessssss and fried chicky sammie",
     "drink_rec": "Paloooooma",
     "url": "https://www.sourduckmarket.com/",
+    "type": "restaurant",
     "reservation_recommended": false
   }
 }
